@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/pattern.jpg);
+}
+
+.container{
+    min-height: 100vh;
+    background-color: white;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
